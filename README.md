@@ -12,11 +12,12 @@ Version
 <h1>Usage</h1>
 <p>
 Create a config/keys_dev.js file and add....
-module.exports = {
+</p>
+```module.exports = {
   stripePublishableKey:'_YOUR_OWN_PUBLISHABLE_KEY_',
   stripeSecretKey:'_YOUR_OWN_SECRET_KEY_'
-}
-</p>
+}```
+
 Installation
 Install the dependencies
 
