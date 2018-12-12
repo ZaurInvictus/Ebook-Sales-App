@@ -9,7 +9,7 @@ Node.js/ Express app that uses the Stripe API to sell an ebook
 Version
 1.0.0
 
-Usage
+<h1>Usage</h1>
 Create a config/keys_dev.js file and add....
 module.exports = {
   stripePublishableKey:'_YOUR_OWN_PUBLISHABLE_KEY_',
