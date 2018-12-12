@@ -1,4 +1,4 @@
-# Ebook-Sales-App-
+# Ebook-Sales-App - Live Vesrsion On Heroku: https://safe-anchorage-93177.herokuapp.com/
 Node.js, Express Ebook sale using Stripe API
 
 Ebook Seller App
