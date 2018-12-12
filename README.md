@@ -24,6 +24,7 @@ $ npm start
 App Info
 Author
 Brad Traversy Traversy Media
+(Was Built by Me Following Tutorial)
 
 Version
 1.0.0
