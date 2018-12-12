@@ -1,4 +1,4 @@
-# Ebook-Sales-App 
+<h1>Ebook-Sales-App</h1>
 Node.js, Express Ebook sale using Stripe API
 
 Live On Heroku: https://safe-anchorage-93177.herokuapp.com/
@@ -10,11 +10,13 @@ Version
 1.0.0
 
 <h1>Usage</h1>
+<p>
 Create a config/keys_dev.js file and add....
 module.exports = {
   stripePublishableKey:'_YOUR_OWN_PUBLISHABLE_KEY_',
   stripeSecretKey:'_YOUR_OWN_SECRET_KEY_'
 }
+</p>
 Installation
 Install the dependencies
 
