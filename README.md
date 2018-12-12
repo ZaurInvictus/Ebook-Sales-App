@@ -2,13 +2,13 @@
 
 Node.js/ Express app that uses the Stripe API to sell an ebook
 
-#Version
+# Version
 
 1.0.0
 
-#Usage
+# Usage
 
-#Create a config/keys_dev.js file and add....
+# Create a config/keys_dev.js file and add....
 
 ```
 module.exports = {
@@ -28,7 +28,7 @@ Install the dependencies
 $ npm install
 ```
 
-#Serve
+# Serve
 To serve in the browser
 
 ```
