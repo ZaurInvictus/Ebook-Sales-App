@@ -37,7 +37,7 @@ $ npm start
 
 ## Author
 
-* **Was Built Followinf Tutorial by Brad Traversy** - *Initial work* - Brad Traversy Traversy Media
+* **Was Built Following Tutorial by Brad Traversy** - *Initial work* - Brad Traversy Traversy Media
 
 ## License
 
